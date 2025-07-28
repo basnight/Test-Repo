@@ -1,1 +1,2 @@
-print("Hello Universe!")
+print("Hello World!")
+print("Shoot for the Stars!")
